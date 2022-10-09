@@ -15,8 +15,8 @@ current_project_entries:
     highlight: WIP
 
   - title: Data Structures in C++
-    url:
-    desc: 
+    url: data-structures
+    desc: Rewriting data structures in C++.
 
 
 old_project_entries:
