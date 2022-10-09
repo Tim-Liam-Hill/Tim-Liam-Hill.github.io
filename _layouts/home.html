@@ -18,7 +18,7 @@ layout: default
 
 {% if site.theme_config.show_projects == true %}
   <h2>{{ site.theme_config.home.title_projects }}</h2>
-  {% include card_list.html collection=site.data.home.project_entries %}
+  {% include card_list.html collection=site.data.home.current_project_entries %}
 {% endif %}
 
 {% if site.theme_config.show_misc_list == true %}
