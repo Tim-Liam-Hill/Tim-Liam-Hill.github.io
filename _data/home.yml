@@ -5,8 +5,8 @@ navbar_entries:
   - title: blog
     url: blog
 
-  - title: website
-    url: https://www.abhinav.co
+  - title: github
+    url: https://github.com/u17112592
 
 project_entries:
   - title: Project 1

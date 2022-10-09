@@ -102,6 +102,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 p, strong, b, em, small, li, hr, table, figcaption {
     color: var(--text);
+    text-align: justify;
 }
 .highlight, pre code, blockquote {
   border-radius: 0.5em;

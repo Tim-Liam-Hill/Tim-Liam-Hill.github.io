@@ -21,7 +21,6 @@ GEM
     eventmachine (1.2.7)
     eventmachine (1.2.7-x64-mingw32)
     ffi (1.15.3)
-    ffi (1.15.3-x64-mingw32)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
     i18n (1.8.10)
@@ -74,16 +73,15 @@ GEM
     terminal-table (2.0.0)
       unicode-display_width (~> 1.1, >= 1.1.1)
     unicode-display_width (1.7.0)
-    wdm (0.1.1)
     webrick (1.7.0)
 
 PLATFORMS
   ruby
+  x64-mingw-ucrt
   x64-mingw32
 
 DEPENDENCIES
   moonwalk!
-  wdm (>= 0.1.0)
 
 BUNDLED WITH
    2.3.23
