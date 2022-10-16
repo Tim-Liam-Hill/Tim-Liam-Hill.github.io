@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Timothy Hill 
-title: Recreating Data Structures in C++ 
+title: Recreating Data Structures in C++ - Part 1
 ---
 
 ## Preamble
