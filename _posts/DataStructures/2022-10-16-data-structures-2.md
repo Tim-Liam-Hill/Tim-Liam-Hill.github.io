@@ -30,5 +30,6 @@ be done to make it successful? In such a case I would argue that a finished, imp
 Perhaps a nice way of thinking about it is the notion of consistent forward progress. Pet projects don't have to be so serious. Perhaps we can find a balance between the tasks that are enjoyable and those that are tedious such that step by step we still get closer to our goal. I would liken it to a long distance race (a marathon or ultra-marathon): there are some things that really shouldn't be skipped such as your plan for hydration, stretching, wearing shoes etc. But there are other things that offer minimal marginal benefit for the vast majority of us that might actually make the process less enjoyable (like fighting past throngs of people just to be at the front at the start of the race). 
 
 Is this a good analogy? I am not sure, but since I wouldn't enjoy proof-reading this article nor do I think the marginal benefit gained by proof-reading this article justifies the discomfort I would experience, I think I will just publish it as is and hope that my point has been made. 
+
 Feel free to take a look at this project [here](https://github.com/u17112592/DataStructures). I am open to criticisms and suggestions on how to improve. 
 
