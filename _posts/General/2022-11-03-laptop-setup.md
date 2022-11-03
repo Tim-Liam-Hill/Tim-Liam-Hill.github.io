@@ -15,16 +15,16 @@ during a week off from work decided to take the plunge and completely reset my l
 Buckle up, its story time.
 
 Back in 2018 when I began my Computer Sciences Undergraduate Degree at the University of Pretoria, I was working on a fairly 
-modest Lenovo laptop (Intel I3, 8 GB Ram etc). This was fine for first year, since most of the projects we had to work on 
+modest Lenovo laptop (Intel I3, 8 GB Ram etc.). This was fine for first year, since most of the projects we had to work on 
 could easily be done in an Arch Linux setup running in Virtual Box, which my laptop was fine with. That being said, as time passed
 my laptop did slow down and the time between switching my laptop on and actually being able to begin programming could often reach 8-10 minutes long.
 Not great, but I managed to work around it.
 
-Fastforward to my second year and suddenly the issue became more pronounced. In COS216 (essentially a Web Development Module)
+Fast-forward to my second year and suddenly the issue became more pronounced. In COS216 (essentially a Web Development Module)
 there were suddenly greater demands on my poor laptop. This problem came to a head in one particular week when we were given 
-exactly one week to setup and use Android Studios to develop a mobile version of the Website we had been developing thus far
+exactly one week to set up and use Android Studios to develop a mobile version of the Website we had been developing thus far
 in that module. What made my predicament worse was that we were given this assignment on a Monday, but I was due to write 
-a multivariable calculus semester test that Friday since I took this as an extra subject. So inn reality, I had 2 days to complete 
+a multivariable calculus semester test that Friday since I took this as an extra subject. So in reality, I had 2 days to complete 
 the project.
 
 On Saturday morning I sat down and began installing Android Studios. After beginning the process, I made a cup of tea and began waiting for the 
