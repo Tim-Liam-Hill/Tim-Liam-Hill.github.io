@@ -1,6 +1,6 @@
 title: Timothy Hill
 author: Timothy Hill
-url: https://u17112592.github.io/ # root address of the site
+url: https://Tim-Liam-Hill.github.io/ # root address of the site
 description: > # description of the site (multiple lines allowed)
   A collection of thoughts, projects, ramblings and more from yours truly. 
 
@@ -14,6 +14,7 @@ favicon: "./logo.png" # relative path to site's favicon
 
 #theme: moonwalk # if you are using GitHub Pages, change it to remote_theme: abhinavs/moonwalk
 remote_theme: abhinavs/moonwalk
+
 
 theme_config:
   appearance: "dark" # can be "light", "dark" or "auto"
