@@ -166,7 +166,7 @@ public:
  */
 ~~~
 
-This class run each operation as follows:
+This big-O complexities for the worst cases for each function are given below.
 
 ### 1. INSERT worst case
 
